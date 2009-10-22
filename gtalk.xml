@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="GTalk" height="446" />
+  <Content type="html">
+    <![CDATA[
+	<iframe src="http://talkgadget.google.com/talkgadget/client?css=" 
+	scrolling="no" frameborder="0" style="overflow:hidden; width: 100%; height: 446px;">
+      ]]>
+  </Content>
+</Module>
